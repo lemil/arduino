@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For Ultrasound
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LG_Matrix_Print	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setPixel	KEYWORD2
+printText	KEYWORD2
+ticker	KEYWORD2
+drawCharacter	KEYWORD2
+clear	KEYWORD2
+display	KEYWORD2
+setIntensity	KEYWORD2
+setEnabled	KEYWORD2
+updateTicker	KEYWORD2
+stopTicker	KEYWORD2
+pixelLength	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ENABLE	LITERAL1
+TEST	LITERAL1
+INTENSITY	LITERAL1
+SCAN_LIMIT	LITERAL1
+DECODE	LITERAL1
+INVERT_SEGMENT_X	LITERAL1
+INVERT_DISPLAY_X	LITERAL1
+INVERT_Y	LITERAL1

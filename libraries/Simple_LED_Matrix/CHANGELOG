@@ -1,0 +1,21 @@
+v1.4.1
+    -Fixed a bug where the setPixel function didn't have a function definition
+    -Added a clearPixel function
+    -Improved interal programming (mainly for the sendMatrixBuffer function)
+    -Changed the ScanPixels example to use the clearPixel and setPixel functions
+v1.4
+    -Added support for any size LED matrix
+    -Added option for left-to-right and right-to-left text scrolling
+    -Streamlined and partially simplified scrolling functions
+    -Fixed absolute reference for Doxyfile (to generate the documentation)
+    -Fixed scrolling bug
+    -Fixed C++ warnings
+v1.3.1
+    -Documentation stuff
+v1.3
+    -Added print function
+    -Added general sendColumnBuffer
+    -Removed sendCustomSymbol (replaced with sendColumnBuffer)
+    -Added 'rotateIndividualDislay' option in the class declaration 
+v1.2
+    -Started to keep track of changes. Anything before this would be a guess based on commit messages.

@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino",
+            "includePath": [
+                "/usr/share/arduino/libraries/**",
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/lib/AccelStepper",
+                "${workspaceFolder}/lib/AFMotor",
+                "${workspaceFolder}/lib/Adafruit_MotorShield",
+                "${workspaceFolder}/lib/UTFT",
+                "${workspaceFolder}/lib/UTouch",
+                "/home/lemil/.arduino15/packages/arduino/hardware/avr/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "F_CPU=16000000L",
+                "ARDUINO=10805",
+                "ARDUINO_AVR_UNO",
+                "ARDUINO_ARCH_AVR"
+            ],
+            "compilerPath": "/usr/bin/avr-gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

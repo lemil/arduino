@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "polargraph_server_a1.ino",
+    "port": "/dev/ttyACM0"
+}
